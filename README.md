@@ -1,9 +1,13 @@
 # IPL_2023
 
-## Introduction
-This is an exploratory data analysis project on IPL 2023 dataset aimed at analyzing and finding patterns in data.
-
 ![ipl](https://github.com/ishita9988/IPL_2023/assets/129153274/3a5556ab-fe3e-4091-b7ab-8036723b74bc)
+
+## Introduction
+
+IPL is a professional Twenty20 cricket league in India. It has become one of the most popular cricket leagues in the world attracting top players from around the globe. In this project, I have computed Exploratory Data Analysis on the IPL Dataset(2023) held recently using python. The goal is to analyze the performance of both players and teams, identify trends and patterns that can help us to make informed decisions about strategy and player selection.
+
+## Tools used-
+* Python Library- **Pandas, NumPy, Seaborn and Matplotlib**
 
 ## Dataset from [Kaggle](https://www.kaggle.com/datasets/sankha1998/ipl2023)
 
