@@ -64,3 +64,13 @@ IPL is a professional Twenty20 cricket league in India. It has become one of the
 ### 10.Winner of IPL 2023
 
 <img width="641" alt="winner" src="https://github.com/ishita9988/IPL_2023/assets/129153274/d3bb9d7c-165b-4dd6-82a4-c6883fb5d553">
+
+## Insights
+
+* Most of the teams(72%) choose fielding first after winning the toss.
+* The win percentage of teams batting second is higher than teams batting first.
+* Gujarat Titans has won the maximum number of matches.
+* Shubhman gill and Yashasvi has won the maximum number of man of the match title.
+* Chennai Super Kings has won the maximum number of matches on batting first.
+* Gujarat Titans has won the maximum number of matches on fielding first.
+* Chennai Super Kings won the ipl 2023 title.
