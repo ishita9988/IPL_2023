@@ -11,6 +11,8 @@ IPL is a professional Twenty20 cricket league in India. It has become one of the
 
 ## Dataset from [Kaggle](https://www.kaggle.com/datasets/sankha1998/ipl2023)
 
+The dataset contains information like date, match_number, venue, location, team, toss won, toss decision, umpire, reserve umpire, match refree, winner, winner runs, winner wicktes and man of the match.
+
 ## Data Visualization
 
 ### 1.Number of win per team
